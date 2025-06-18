@@ -7,7 +7,8 @@ import { getUrlWithParams } from "@/utils/getUrlWithParams";
 export default async function Home({
   searchParams,
 }: {
-  searchParams: Promise<unknown>;
+  /* eslint-disable  @typescript-eslint/no-explicit-any */
+  searchParams: Promise<any>;
 }) {
   const queryParams = await searchParams;
   const url = getUrlWithParams(queryParams);
