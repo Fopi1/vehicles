@@ -14,14 +14,14 @@ export const metadata: Metadata = {
     "Explore top offers on new and used cars. Verified vehicle history, smart search, nationwide delivery, and expert support from start to finish.",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
     <html lang="en" className={`${JetbrainsMono.className}`}>
-      <body className="">{children}</body>
+      <body>{children}</body>
     </html>
   );
 }

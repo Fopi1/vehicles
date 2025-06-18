@@ -4,7 +4,9 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
+  --max-w-8xl: 1800px;
   --color-background: var(--background);
+  --color-background-secondary: oklch(0.8588 0.1085 325.49 / 62.39%);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
@@ -41,11 +43,6 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
-}
-
-body {
-  background: var(--bg-color-primary);
-  color: var(--text-color-primary);
 }
 
 :root {
@@ -124,4 +121,8 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+}
+body {
+  background: var(--backgorund);
+  color: var(--text-color-primary);
 }

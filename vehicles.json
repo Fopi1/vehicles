@@ -1,0 +1,83 @@
+[
+	{
+		"mark_id": "Changan",
+		"folder_id": "CS55 Plus, I Рестайлинг",
+		"modification_id": "1.5 AMT (181 л.с.)",
+		"complectation_name": "Luxe",
+		"body_type": "Внедорожник 5 дв.",
+		"wheel": "Левый",
+		"color": "Черный",
+		"metallic": "Нет",
+		"availability": "В наличии",
+		"custom": "Растаможен",
+		"state": "Отличное",
+		"owners_number": "Один владелец",
+		"run": 20,
+		"year": 2023,
+		"registry_year": 2023,
+		"currency": "RUR",
+		"vin": "LS4ASE2E9PA302204",
+		"price": 2539000,
+		"extras": "Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Система помощи при торможении (BAS, EBD), Система стабилизации (ESP), Система помощи при старте в гору (HSA), USB, Иммобилайзер, Центральный замок, Премиальная аудиосистема, Люк, Комбинированный (Материал салона), Количество мест: 5, Камера 360°, Крепление детского кресла (задний ряд) ISOFIX, Светодиодные фары, Диски 19, Климат-контроль 1-зонный, ЭРА-ГЛОНАСС, Бортовой компьютер, Темный салон, Bluetooth, Розетка 12V, Рейлинги на крыше, Подушки безопасности боковые, Мультифункциональное рулевое колесо, Датчик дождя, Android Auto, Электроскладывание зеркал, Датчик света, Электрообогрев боковых зеркал, Запуск двигателя с кнопки, Подушка безопасности водителя, CarPlay, Система доступа без ключа, Парктроник задний, Датчик давления в шинах, Отделка кожей рулевого колеса, Адаптивный круиз-контроль, Активный усилитель руля, Электропривод зеркал, Электрообогрев лобового стекла, Подушка безопасности пассажира, Подогрев передних сидений, Беспроводная зарядка для смартфона, Голосовое управление, Отделка кожей рычага КПП, Докатка, Электростеклоподъемники задние, Дистанционный запуск двигателя, Складывающееся заднее сиденье, Третий задний подголовник, Электрорегулировка сиденья водителя, Электростеклоподъемники передние, Передний центральный подлокотник, Регулировка руля по высоте, Регулировка руля по вылету, Электронная приборная панель, Регулировка передних сидений по высоте, Система предотвращения столкновения, Блокировка замков задних дверей",
+		"images": {
+			"image": [
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/929cd6eb26fc.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/86175783bd26.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/4bc4c0d3fdce.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/bd16817c9cc0.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/f358131b6c35.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/8933de2b6e16.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/5e90125d1828.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/adf0c4f7acb4.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/0a9f4e5ce64c.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/e41a091aca1c.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/5d40f27be037.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/ed86f20e4696.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/2a56c2c094d8.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/93e8a90173c4.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/061825d91207.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/d515a22a8089.jpg",
+				"https://ru-msk-dr3-1.store.cloud.mts.ru/store/images/items/fbb/a91841297/9180b0ff4714.jpg"
+			]
+		},
+		"video": "https://www.youtube.com/watch?v=jTI7skbEpQk",
+		"booking_allowed": false,
+		"pts": "Оригинал",
+		"unique_id": 606561,
+		"exchange": "Рассмотрю варианты",
+		"tech_param_id": 23443579,
+		"engine_volume": 1500,
+		"engine_power": "181 л.с.",
+		"engine_type": "Бензин",
+		"gearbox": "Автомат робот",
+		"drive": "Передний",
+		"model_name": "CS55 Plus",
+		"generation_name": "I Рестайлинг",
+		"mark_cyrillic_name": "Changan",
+		"model_cyrillic_name": "ЦС55ПЛЮС",
+		"offer_type": "С",
+		"updated_at": "2024-11-22 22:18:24",
+		"generation_rel": {
+			"slug": "i-restailing",
+			"count": 10,
+			"name": "I Рестайлинг"
+		},
+		"brand_rel": {
+			"slug": "changan",
+			"count": 58,
+			"name": "Changan"
+		},
+		"model_rel": {
+			"slug": "cs55-plus",
+			"count": 10,
+			"name": "CS55 Plus"
+		},
+		"images_amount": 17,
+		"engine_type_eng": "petrol",
+		"engine_power_num": 181,
+		"body_type_eng": "suv5",
+		"owners_number_num": 1,
+		"color_eng": "black",
+		"gearbox_eng": "autorobot"
+	}
+]
